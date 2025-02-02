@@ -124,7 +124,7 @@ def bitwise_ops(a, b):
         dict: Results of bitwise operations
     """
     return {
-        'and': a & b,   # Bitwise AND
-        'or': a | b,    # Bitwise OR
-        'xor': a ^ b    # Bitwise XOR
+        'and': a & b,  
+        'or': a | b,    
+        'xor': a ^ b    
     }
